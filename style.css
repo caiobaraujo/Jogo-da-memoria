@@ -1,0 +1,29 @@
+body {
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.center2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
